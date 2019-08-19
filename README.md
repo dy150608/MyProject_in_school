@@ -1,4 +1,4 @@
-# MyProject_in_school
+# my practice project
 just for fun(如果有需要联系我可发邮件至728612360@qq.com)
 
 the first project(greedy snake) was write in 2018.2, when I was in sophomore.
