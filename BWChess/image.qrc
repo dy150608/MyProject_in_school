@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/back.png</file>
+        <file>image/back2.png</file>
+        <file>image/bg1.jpg</file>
+        <file>image/bg2.jpg</file>
+        <file>image/black.png</file>
+        <file>image/black2.png</file>
+        <file>image/board.jpg</file>
+        <file>image/buttonBK.png</file>
+        <file>image/chess.ico</file>
+        <file>image/close.png</file>
+        <file>image/machine.png</file>
+        <file>image/machine2.png</file>
+        <file>image/min.png</file>
+        <file>image/network.png</file>
+        <file>image/network2.png</file>
+        <file>image/white.png</file>
+        <file>image/white2.png</file>
+    </qresource>
+</RCC>
